@@ -1,4 +1,15 @@
 #cerebro {
-    width: 100%;
-    border: ;
+    width: 150px;
+    border: 10px black solid;
+display: inline-block;
+}
+body{
+    background-color:red;
+}
+ h1 {
+    color: white
+    font-size: 30px;
+}
+p {
+    color:white;
 }
